@@ -18,7 +18,7 @@
             <!-- Second Column -->
             <div class="col-md-4">
                 <img
-                    src="../../../public/water-bottle-img.jpg"
+                    src="@/assets/water-bottle-img.jpg"
                     class="img-fluid"
                     alt="water bottles"
                 />
@@ -27,37 +27,37 @@
             <!-- Third Column -->
             <div class="col-md-4">
                 <support-feature
-                    :img="`../../../public/feature-icon-01.png`"
+                    :img="featureIcon01"
                     :text="`Free Water,<br />just for you`"
                     :border="'bottom'"
                     :lines="2"
                 ></support-feature>
                 <support-feature
-                    :img="`../../../public/feature-icon-02.png`"
+                    :img="featureIcon02"
                     :text="`Your logo, big big<br />on our site okay`"
                     :border="'bottom'"
                     :lines="2"
                 ></support-feature>
                 <support-feature
-                    :img="`../../../public/feature-icon-03.png`"
+                    :img="featureIcon03"
                     :text="`Best discounts for<br />you, confirm!`"
                     :border="'bottom'"
                     :lines="2"
                 ></support-feature>
                 <support-feature
-                    :img="`../../../public/feature-icon-04.png`"
+                    :img="featureIcon04"
                     :text="`Cool freebies`"
                     :border="'bottom'"
                     :lines="2"
                 ></support-feature>
                 <support-feature
-                    :img="`../../../public/feature-icon-05.png`"
+                    :img="featureIcon05"
                     :text="`VIP invites to join<br/>our happening<br/>events`"
                     :border="'bottom'"
                     :lines="0"
                 ></support-feature>
                 <support-feature
-                    :img="`../../../public/feature-icon-06.png`"
+                    :img="featureIcon06"
                     :text="`We'll share your<br/>story everywhere<br/>on social media`"
                     :border="'no'"
                     :lines="0"
@@ -70,6 +70,12 @@
 <script setup>
 import GreenButton from './GreenButton.vue';
 import SupportFeature from './SupportFeature.vue';
+import featureIcon01 from '@/assets/feature-icon-01.png';
+import featureIcon02 from '@/assets/feature-icon-02.png';
+import featureIcon03 from '@/assets/feature-icon-03.png';
+import featureIcon04 from '@/assets/feature-icon-04.png';
+import featureIcon05 from '@/assets/feature-icon-05.png';
+import featureIcon06 from '@/assets/feature-icon-06.png';
 </script>
 
 <style scoped>

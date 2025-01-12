@@ -1,11 +1,11 @@
 <template>
     <div
         class="hero-section d-flex text-center"
-        style="
-            background-image: url('/public/section_01_bg.png');
-            background-size: cover;
-            background-position: center;
-        "
+        :style="{
+            backgroundImage: `url(${bgImg})`,
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+        }"
     >
         <div class="container mt-5">
             <h5 class="small-title">We Be</h5>
@@ -32,6 +32,7 @@
 
 <script setup>
 import GreenButton from './UI/GreenButton.vue';
+import bgImg from '@/assets/section_01_bg.png';
 </script>
 
 <style scoped>
