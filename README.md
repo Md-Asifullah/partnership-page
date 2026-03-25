@@ -1,6 +1,6 @@
 # Partnership Landing Page 💧✨
 
-A modern **Vue 3** landing page project focused on recreating a polished partnership website design with an emphasis on **component reusability**, **responsive layout**, and **clean UI structure**.
+A modern **Vue 3** landing page project created by transforming a **Figma design** into a fully responsive and structured front-end website, with a strong focus on **component reusability**, **responsive layout**, and **clean UI implementation**.
 
 Check it out live 👉 **[Partnership Landing Page](https://partnership-page.netlify.app/)**
 
@@ -10,9 +10,9 @@ Check it out live 👉 **[Partnership Landing Page](https://partnership-page.net
 
 - 📱 **Responsive Design** – Built to adapt smoothly across desktop and mobile screen sizes.
 - 🧩 **Reusable Vue Components** – Structured with modular components for easier maintenance and scalability.
+- 🎨 **Figma-to-Vue Implementation** – Developed by recreating a visual design from Figma into a working front-end page.
 - 🧭 **Well-Organized Sections** – Includes navigation, hero area, support section, important info, FAQ, and footer.
 - ❓ **FAQ Accordion UI** – Expandable FAQ section for clean and user-friendly content presentation.
-- 🎨 **Design Recreation Practice** – Focused on translating a static design into a polished front-end experience.
 - ⚡ **Fast Development Workflow** – Powered by Vite for fast local development and builds.
 - 🌐 **Deployed on Netlify** – Live and accessible online.
 
@@ -117,7 +117,7 @@ npm run preview
 
 This project was built as a **front-end practice project** to strengthen skills in:
 
-- translating a visual design into a working interface
+- translating a **Figma design** into a working interface
 - building reusable Vue components
 - creating responsive layouts
 - organizing code for clarity and scalability
@@ -129,7 +129,7 @@ This project was built as a **front-end practice project** to strengthen skills 
 
 A few areas of focus while building this project:
 
-- recreating a polished landing page layout with strong visual structure
+- recreating a polished landing page from a Figma design
 - breaking the UI into reusable and maintainable components
 - keeping styling and spacing consistent across sections
 - making the page mobile responsive
