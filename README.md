@@ -33,8 +33,6 @@ Check it out live 👉 **[Partnership Landing Page](https://partnership-page.net
 
 ![Partnership Landing Page Screenshot](src/assets/partnership-page-screenshot.jpg)
 
-> Add your final project screenshot at the path above, or update the image path to match your actual screenshot file name.
-
 ---
 
 ## 🏗 Project Structure
@@ -148,8 +146,6 @@ A few areas of focus while building this project:
 ## 👨‍💻 About the Author
 
 Created with ❤️ by **[Md Asifullah](https://www.artisanasif.com/)**, a passionate **Front-End Developer & Software Engineer**.
-
-💼 Open to exciting opportunities and collaborations.
 
 ---
 
