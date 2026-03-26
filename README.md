@@ -77,7 +77,7 @@ Want to run it locally? Follow these steps:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/YOUR-USERNAME/partnership-page.git
+   git clone https://github.com/Md-Asifullah/partnership-page.git
    cd partnership-page
    ```
 
